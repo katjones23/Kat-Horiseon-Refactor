@@ -1,4 +1,4 @@
-# homework-1-code-refactor
+# Kat's Horiseon Refactor
 
 Refactoring the provided HTML and CSS for accessibility.  Georgia Tech Coding Boot Camp, Homework 1.
 
